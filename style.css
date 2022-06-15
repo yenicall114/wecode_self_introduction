@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body, h1, h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-box {
+    border: 1px solid #dde7e1;
+    box-shadow: 0px 1px 20px 10px #dde7e1;
+    width: 610px;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #000000;
+    text-align: right;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.subname {
+    color: #858585;
+    text-align: right;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+    color: #858585;
+    font-weight: lighter;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 10px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.lorem-box {
+    font-size: 10px;
+    line-height: 16px;
+}
+
+.text {
+    font-size: 12px;
+    font-weight: bold;
+    float: left
+}
+
+.year {
+    font-size: 12px;
+    font-weight: bold;
+    float: right;
+}
+
+.float-end {
+    overflow: hidden;
+}
+
+.subtext1 {
+    font-size: 11px;
+    color: #858585;
+}
+
+.subtext2 {
+    font-size: 11px;
+    color: #858585;
+    padding-left: 18px;
+}
+
+.sns-image {
+    height: 12px;
+    width: 12px;
+}
+
+.sns-align {
+    text-align: right;
+}
+
+footer {
+    background-color: #0a2e22;
+    color: #ebebeb;
+    text-align: center;
+    font-size: 11px;
+    padding: 50px;
+}
